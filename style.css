@@ -1,0 +1,97 @@
+*{margin: auto;}
+table{
+    width:100%;
+    height: 100vh;
+}
+
+#logo{
+   
+   text-align: right;
+   align-items: end;
+   background-position: right;
+}
+
+
+
+  background-color: rgb(204, 56, 2);
+
+    background-color: rgb(210, 86, 16)
+
+  
+
+    background-color: rgb(125, 49, 129);
+
+
+
+    background-color: rgb(255, 184, 1);
+
+#image1{
+    width: 20%;
+}
+
+
+#linha1{height: 180px ;}
+#linha2{height:140px ;}
+#linha3{height:270px ;}
+#linha4{height:70px ;}
+#linha5{height:80px ;}
+
+#img2{
+    height: 220px;;
+    
+}
+
+
+
+.td1{width:30% ;
+    background-color: rgb(204, 56, 2);}
+.td2{width:20% ;
+text-align: right;
+background-color: rgb(210, 86, 16)
+}
+.td3{width:60% ;
+    background-color: rgb(125, 49, 129);}
+.td4{width:22% ;
+    background-color: rgb(125, 49, 129);}
+.td5{width:6% ;
+
+    background-color: rgb(204, 56, 2);}
+.td6{
+    text-align: center;
+    vertical-align: top;
+    background-color: rgb(204, 56, 2);
+}
+.td7{width: 17% ;
+padding: 40px;
+text-align: justify;
+vertical-align: text-top;
+padding-top: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+background-color: rgb(255, 184, 1);}
+
+
+.td8{width:20% ;     
+text-align: left;
+vertical-align: bottom;
+padding: 2px;
+background-color: rgb(204, 56, 2);
+}
+.td9{
+    background-color: rgb(125, 49, 129);
+
+}
+.td10{width:20% ;
+    background-color: rgb(255, 184, 1);}
+    .td11{
+        background-color: rgb(125, 49, 129);
+
+    }
+    .td12{
+        
+  background-color: rgb(204, 56, 2);
+
+    }
+
+
+
